@@ -1,4 +1,4 @@
-# mplayer
+# Web Scraping Using Music Player -> Frontend Vuejs
 
 ## Project setup
 ```
@@ -21,5 +21,4 @@ npm run lint
 ```
 ![EXPRESS](https://github.com/0mar2090/git/assets/81777537/2a147e10-6bec-469a-9153-3c8d89a813fe)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
